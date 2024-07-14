@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Step 1 of using Claude.AI for software development and document my interactions and results using Jupyter AI."
 authors = [{name = "Brandon Corfman", email = "h9tbgnbbk@privaterelay.appleid.com"}]
 dependencies = [
+    "jupyter-ai>=2.18.1",
 ]
 license = "MIT"
 readme = "README.md"
